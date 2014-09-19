@@ -2,6 +2,10 @@ function hello()
     print("hello")
 end
 
-fucntion bye()
+function good()
+    return math.pi
+end
+
+function bye()
     print("bye")
 end
