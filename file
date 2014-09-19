@@ -6,9 +6,11 @@ function good()
     return math.pi
 end
 
-function bye()
+function bye(str)
     print("bye")
 end
+
+x = 12
 
 function tang()
     return math.tg(10)
