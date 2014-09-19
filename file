@@ -2,6 +2,10 @@ function hello()
     print("hello")
 end
 
+function tang()
+    return math.tg(10)
+end
+
 fucntion bye()
     print("bye")
 end
