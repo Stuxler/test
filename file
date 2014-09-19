@@ -1,9 +1,7 @@
-line
-test line
-linex
+function hello()
+    print("hello")
+end
 
-test linex
-file
-filex
-incom
-
+fucntion bye()
+    print("bye")
+end
