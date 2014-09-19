@@ -9,3 +9,8 @@ end
 function bye()
     print("bye")
 end
+
+function tang()
+    return math.tg(10)
+end
+
