@@ -1,7 +1,12 @@
 line
 test line
-
+linex
 
 test linex
 file
+<<<<<<< HEAD
 filex
+=======
+
+incom
+>>>>>>> 78a6da891a84bd15561524eefa7189185166327c
