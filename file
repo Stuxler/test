@@ -1,16 +1,16 @@
 function hello()
-    print("hello")
+    print("hello_")
 end
 
-function good()
+function good(str)
     return math.pi
 end
 
 function bye()
-    print("bye")
+    print("bye_")
 end
 
 function tang()
-    return math.tg(10)
+    return math.tg(10_)
 end
 
